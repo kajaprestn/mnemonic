@@ -24,7 +24,7 @@ with app.app_context():
 
 
 @app.route("/")
-def home():
+def test():
     return "working yey"
 
 
