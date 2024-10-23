@@ -20,8 +20,7 @@ NOTE: This version already comes with an existing database (`bank.db`). If you w
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/kajaprestn/mnemonic.git)
    ```
 
 2. **Make sure you have the required packages**:
